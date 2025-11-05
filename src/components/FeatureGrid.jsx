@@ -39,7 +39,7 @@ export default function FeatureGrid() {
     <section id="features" className="bg-white">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-12">
         <div className="max-w-2xl">
-          <h2 className="text-2xl sm:text-3xl font-semibold text-gray-900">Why teams choose SAP AI Consultant</h2>
+          <h2 className="text-2xl sm:text-3xl font-semibold text-gray-900">Why teams choose OriginERP</h2>
           <p className="mt-2 text-gray-600">Purpose-built for SAP S/4HANA implementations with robust information architecture.</p>
         </div>
 

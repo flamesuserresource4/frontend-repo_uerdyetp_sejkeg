@@ -11,10 +11,10 @@ export default function LandingHero() {
             UI refactor in progress
           </p>
           <h1 className="mt-4 text-3xl sm:text-4xl lg:text-5xl font-semibold tracking-tight text-gray-900">
-            SAP AI Consultant
+            OriginERP — SAP AI Consultant
           </h1>
           <p className="mt-3 text-gray-600 text-base sm:text-lg max-w-xl">
-            An AI-powered SAP S/4HANA implementation assistant that guides consultants through structured interviews and generates Business Blueprint Documents (BBD).
+            An AI-powered assistant by OriginERP that guides SAP S/4HANA consultants through structured interviews and generates Business Blueprint Documents (BBD).
           </p>
           <div className="mt-6 flex flex-wrap items-center gap-3">
             <a href="#features" className="inline-flex items-center justify-center rounded-md bg-[#0A6ED1] px-4 py-2 text-white text-sm font-medium shadow hover:bg-[#095fb6] focus:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-[#0A6ED1]">

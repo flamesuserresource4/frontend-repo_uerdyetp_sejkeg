@@ -10,9 +10,9 @@ export default function App() {
     <div className="min-h-screen bg-white text-gray-900 antialiased">
       <header className="sticky top-0 z-10 bg-white/90 backdrop-blur border-b border-gray-200">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 h-14 flex items-center justify-between">
-          <a href="#" className="flex items-center gap-2 font-semibold text-gray-900">
+          <a href="#" className="flex items-center gap-2 font-semibold text-gray-900" aria-label="OriginERP home">
             <span className="inline-block h-3 w-3 rounded-full bg-[#0A6ED1]" aria-hidden="true" />
-            SAP AI Consultant
+            OriginERP
           </a>
           <nav className="hidden sm:flex items-center gap-6" aria-label="Main">
             <a href="#features" className="text-sm text-gray-600 hover:text-gray-900">Features</a>

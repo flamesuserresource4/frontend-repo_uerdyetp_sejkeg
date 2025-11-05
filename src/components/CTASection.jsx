@@ -7,7 +7,7 @@ export default function CTASection() {
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-12">
         <div className="rounded-xl border border-gray-200 bg-gradient-to-br from-white to-gray-50 p-8 md:p-10 text-center">
           <div className="mx-auto max-w-2xl">
-            <h2 className="text-2xl sm:text-3xl font-semibold text-gray-900">Start your workspace rollout</h2>
+            <h2 className="text-2xl sm:text-3xl font-semibold text-gray-900">Start your rollout with OriginERP</h2>
             <p className="mt-2 text-gray-600">Refactor aligned to Workspace → Client → Project → Module → Submodule. Plug in real APIs when ready.</p>
           </div>
           <div className="mt-6 flex items-center justify-center gap-3">
